@@ -1,0 +1,98 @@
+.login_box {
+    /* margin-top: 104px; */
+    height: 690px;
+    /* border: 1px solid red; */
+    /* background-color: #ebeff2; */
+}
+
+.login {
+    height: 580px;
+    background-color: #ffffff;
+     padding-top: 92px;
+
+}
+.login_content {
+    width: 660px; 
+    height: 483px;
+    /* margin-top: 104px; */
+    padding-left: 5px;
+    /* border: 1px solid red; */
+    box-shadow: 0 2px 16px 2px rgb(0 0 0 / 10%);
+   
+}
+
+/* left 66p  top45px*/
+form {
+    width: 528px;
+    height: 296px;
+    /* background-color: seagreen; */
+    padding-left: 55px;
+    padding-top: 45px;
+    /* border: 1px solid red; */
+    
+
+} 
+form  ul li {
+    margin-bottom: 16px;
+}
+form  ul li label {
+    display: inline-block;
+   height: 50px;
+   line-height: 50px;
+}
+
+form  ul li label {
+    font-size: 13px;
+    /* vertical-align: middle; */
+    color: #333333;
+    cursor:pointer;
+}
+form  ul li  .inp {
+    width: 336px;
+    height: 50px;
+    float: right;
+    border: 1px solid #f4f5f6;
+    padding-left: 8px;
+    border-radius: 5px;
+    
+}
+form  ul li  .inp:hover {
+    border: 1px solid #aaaaaa;
+    border-radius: 5px;
+}
+
+.checkbox_my {
+    padding-left: 190px;
+    
+}
+.button_login {
+    height: 50px;
+    width: 150px;
+    background-color: #fac029;
+    color: #ffffff;
+    margin-right: 15px;
+    margin-top: 15px;
+}
+.button_submit {
+    height: 50px;
+    width: 150px;
+    background-color: #ffffff;
+    color: #666666;
+    border: 1px solid #dae5ed;
+}
+.retrieve_password {
+    text-align: right;
+    float: right;
+    display: block;
+    width: 250px;
+    height: 48px;
+    line-height: 48px;
+}
+.user_explain {
+    margin-top: 50px;
+    height: 90px;
+}
+.user_explain span {
+    font-size: 13px;
+    line-height: 22px;
+}
